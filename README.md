@@ -1,4 +1,4 @@
-# Gesture-Controlled Android System 🖐️➡️📱
+# Gesture-Controlled Android System 
 
 This project allows you to remotely control an Android device using hand gestures captured by a webcam. It uses a Python script for computer vision and a Firebase Realtime Database to send commands to an Android accessibility service.
 
